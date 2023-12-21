@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Subhayan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhayand10&label=Profile%20views&color=0e75b6&style=flat" alt="subhayand10" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhayand10" alt="subhayand10" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/subhayandas18" target="blank"><img src="https://img.shields.io/twitter/follow/subhayandas18?logo=twitter&style=for-the-badge" alt="subhayandas18" /></a> </p>
+
+<p align="center"> <img width="330" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" alt="subhayandas18" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/subhayandas18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhayandas18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/subhayan-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhayan-das" height="30" width="40" /></a>
-<a href="https://codesandbox.com/subhayan_sd10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="subhayan_sd10" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,4 +18,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhayand10&show_icons=true&locale=en&layout=compact" alt="subhayand10" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhayand10&" alt="subhayand10" /></p>
